@@ -1,0 +1,5 @@
+es:
+  app_name: 'Analizador Semántico'
+  helpers:
+    text_area_input: 'Ingresa tu sintaxis'
+    analizar: 'Analizar'
